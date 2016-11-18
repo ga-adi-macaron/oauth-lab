@@ -42,3 +42,9 @@ An app that meets the requirement above. The screenshot below is just an example
 <p align="center">
   <img src="./screenshots/screen1.png" width="300">
 </p>
+
+---
+
+## Licensing
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact [legal@ga.co](mailto:legal@ga.co).
